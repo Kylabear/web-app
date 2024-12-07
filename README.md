@@ -21,7 +21,7 @@ To run this project locally, ensure you have the following installed:
 1. **Clone the Repository**  
    Open your terminal and execute:  
    ```bash  
-   git clone https://github.com/yourusername/peak-baguio.git
+   git clone https://github.com/myusername/web-app.git
 
 2. **Install Dependencies**
    Install all the required packages using npm:
